@@ -24,7 +24,7 @@ To conduct sales analysis from a given Adventure Works database in the years 200
 -	Generate graphs from the data produced from pivot tables.
 - Create an interactive dashboard that is friendly to the user.
 ## Dashboard
-![Dashboard](https://github.com/user-attachments/assets/307034dd-3009-491e-b1f6-027f2743b85d)
+![Dashboard](https://github.com/user-attachments/assets/16165f4c-d094-4123-95a3-154cedfecdeb)
 
 ## Project Insights
 
