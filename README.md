@@ -69,5 +69,5 @@ To conduct sales analysis from a given Adventure Works database in the years 200
   - In 2006, the total profit is $28.18M
   - In 2007, the total profit is $42.55M
   - In 2008, the total profit is $42.16M
-With these, the top 1 profit was accumulated in the year 2007, with Australia being the top 1 contributor having $12.89M total profit contribution to the total profit in 2007.
+- With these, the top 1 profit was accumulated in the year 2007, with Australia being the top 1 contributor having $12.89M total profit contribution to the total profit in 2007.
 
