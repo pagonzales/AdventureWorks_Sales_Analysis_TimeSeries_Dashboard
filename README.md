@@ -29,7 +29,7 @@ To conduct sales analysis from a given Adventure Works database in the years 200
 ## Project Insights
 - In the basis of 2005 data from AdventureWorks database, we can see the following:
   - In 2005, Dec, Nov, and Oct as the top 3 months that collectively accounted for 55.3% of the total profit with 46.9% of profit came from Thursday, Friday, and Saturday sales.
-  - In specific country we have:
+  - In specific countries, we have:
     - For Australia, we have Dec, Nov, and Aug as the top 3 months that collectively accounted for 53.4% of total profit with 49.2% of total profit came from Wed, Thu, and Sat sales. Also, weekday makes up 70.9% of the total profit.
     - For Canada, we have Dec, Aug, and Nov as the top 3 months that collectively accounted for 65.8% of total profit with 42.9% of total profit came from Mon, Fri, and Sat sales. Also, weekday makes up 72.1% of the total profit.
     - For France, we have Jul, Nov, and Dec as the top 3 months that collectively accounted for 70.2% of total profit with 56.8% of total profit came from Wed, Thu, and Sun sales. Also, weekday makes up 76.5% of the total profit.
@@ -38,12 +38,21 @@ To conduct sales analysis from a given Adventure Works database in the years 200
     - For United States, we have Dec, Nov, and Oct as the top 3 months that collectively accounted for 60.2% of total profit with 48.8% of total profit came from Tue, Thu, and Fri sales. Also, weekday makes up 72.1% of the total profit.
       
   - In 2006, May, Mar, and Jun as the top 3 months that collectively accounted for 31.2% of the total profit with 45.2% of profit came from Monday, Friday, and Sunday sales.
-  - In specific country we have:
+  - In specific countries, we have:
     - For Australia, we have May, Jan, and Apr as the top 3 months that collectively accounted for 31.6% of total profit with 45.9% of total profit came from Thu, Sat, and Sun sales. Also, weekday makes up 69.7% of the total profit.
     - For Canada, we have Feb, Aug, and Jun as the top 3 months that collectively accounted for 47.6% of total profit with 52.4% of total profit came from Mon, Fri, and Sun sales. Also, weekday makes up 72.6% of the total profit.
     - For France, we have Dec, Sep, and Aug as the top 3 months that collectively accounted for 35.6% of total profit with 52.8% of total profit came from Mon, Thu, and Fri sales. Also, weekday makes up 74.3% of the total profit.
     - For Germany, we have Mar, May, and Jun as the top 3 months that collectively accounted for 37.4% of total profit with 46.7% of total profit came from Mon, Tue, and Sat sales. Also, weekday makes up 71.0% of the total profit.
     - For United Kingdom, we have Dec, Jan, and Aug as the top 3 months that collectively accounted for 37.2% of total profit with 51.5% of total profit came from Thu, Fri, and Sun sales. Also, weekday makes up 72.4% of the total profit.
     - For United States, we have May, Jun, and Mar as the top 3 months that collectively accounted for 38.3% of total profit with 47.9% of total profit came from Mon, Tue, and Sun sales. Also, weekday makes up 73.6% of the total profit.
+   
+  - In 2007, Dec, Nov, and Oct as the top 3 months that collectively accounted for 41.4% of the total profit with 44.3% of profit came from Tuesday, Wednesday, and Thursday sales.
+  - In specific countries, we have:
+    - For Australia, we have Oct, Sep, and Dec as the top 3 months that collectively accounted for 35.5% of total profit with 47.0% of total profit came from Wed, Thu, and Fri sales. Also, weekday makes up 74.9% of the total profit.
+    - For Canada, we have Dec, Nov, and Aug as the top 3 months that collectively accounted for 50.6% of total profit with 47.1% of total profit came from Wed, Fri, and Sun sales. Also, weekday makes up 69.6% of the total profit.
+    - For France, we have Dec, Nov, and Sep as the top 3 months that collectively accounted for 40.4% of total profit with 46.0% of total profit came from Tue, Sat, and Sun sales. Also, weekday makes up 69.1% of the total profit.
+    - For Germany, we have Dec, Oct, and Jul as the top 3 months that collectively accounted for 39.6% of total profit with 47.2% of total profit came from Wed, Thu, and Sun sales. Also, weekday makes up 72.0% of the total profit.
+    - For United Kingdom, we have Dec, Oct, and Nov as the top 3 months that collectively accounted for 42.3% of total profit with 46.9% of total profit came from Mon, Thu, and Sat sales. Also, weekday makes up 71.0% of the total profit.
+    - For United States, we have Dec, Nov, and Oct as the top 3 months that collectively accounted for 47.8% of total profit with 44.7% of total profit came from Tue, Wed, and Sat sales. Also, weekday makes up 72.1% of the total profit.
 ## Final Conclusion
 
