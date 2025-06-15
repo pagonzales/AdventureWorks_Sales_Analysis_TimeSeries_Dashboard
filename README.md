@@ -64,4 +64,10 @@ To conduct sales analysis from a given Adventure Works database in the years 200
     - For United Kingdom, we have Jun, Feb, and May as the top 3 months that collectively accounted for 56.0% of total profit with 47.8% of total profit came from Mon, Sat, and Sun sales. Also, weekday makes up 66.2% of the total profit.
     - For United States, we have May, Jun, and Apr as the top 3 months that collectively accounted for 56.6% of total profit with 45.0% of total profit came from Mon, Wed, and Thu sales. Also, weekday makes up 73.1% of the total profit.
 ## Final Conclusion
+- In the data from AdventureWorks Sales for the year 2005-2008, we have;
+  - In 2005, the total profit is $13.40M
+  - In 2006, the total profit is $28.18M
+  - In 2007, the total profit is $42.55M
+  - In 2008, the total profit is $42.16M
+With these, the top 1 profit was accumulated in the year 2007, with Australia being the top 1 contributor having $12.89M total profit contribution to the total profit in 2007.
 
