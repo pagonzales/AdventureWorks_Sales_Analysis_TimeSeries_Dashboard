@@ -1,4 +1,4 @@
-#  AdventureWorks Sales Analysis – Time Series Dashboard (Interactive MS Excel Dashboard)
+#  AdventureWorks Sales Analysis – Time Series Dashboard (Interactive MS Excel Data Analysis Project)
 ## Project Objective
 To conduct sales analysis from the Adventure Works dataset in the years 2005-2008. These include the analysis of key performance indicators (KPIs) and time series trends.
 ## Data used
